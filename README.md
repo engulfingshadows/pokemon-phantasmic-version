@@ -1,3 +1,3 @@
 ﻿# Pokemon Phantasmic Version
 
-Based on Pokemon Essentials v21.1.
+Pokemon Phantasmic Version is set in the same pre-Mega universe as the original five generations of official Pokemon games. Some of the story is concurrent with Lucas's defeat of Cyrus at the summit of Mt. Coronet, while the majority of the story takes place afterward. This is also roughly around the time when Ethan defeats Red atop Mt. Silver. The story focuses on mysterious events occurring in a now-expanded Fullmoon Island and Newmoon Island, and the legendary Pokemon core to the story are Cresselia and Darkrai. Shaymin, Manaphy, and Phione also feature in the main story. The reason for these five Pokemon being chosen is because of their lack of any significant in-game events in any official storyline.
