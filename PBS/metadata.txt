@@ -13,21 +13,21 @@ SurfBGM = Surfing
 BicycleBGM = Bicycle
 #-------------------------------
 [1]
-TrainerType = POKEMONTRAINER_Red
-WalkCharset = trainer_POKEMONTRAINER_Red
-RunCharset = boy_run
-CycleCharset = boy_bike
-SurfCharset = boy_surf
-DiveCharset = boy_surf
-FishCharset = boy_fish_offset
-SurfFishCharset = boy_fish_offset
+TrainerType = POKEMONTRAINER_Lucas
+WalkCharset = NPC_199_Lucas
+RunCharset = NPC_199_Lucas_run
+CycleCharset = NPC_199_Lucas_bike
+SurfCharset = NPC_199_Lucas_surf
+DiveCharset = NPC_199_Lucas_surf
+FishCharset = NPC_199_Lucas_fishing
+SurfFishCharset = NPC_199_Lucas_fishing
 #-------------------------------
 [2]
-TrainerType = POKEMONTRAINER_Leaf
-WalkCharset = trainer_POKEMONTRAINER_Leaf
-RunCharset = girl_run
-CycleCharset = girl_bike
-SurfCharset = girl_surf
-DiveCharset = girl_surf
-FishCharset = girl_fish_offset
-SurfFishCharset = girl_fish_offset
+TrainerType = POKEMONTRAINER_Dawn
+WalkCharset = NPC_202_Dawn
+RunCharset = NPC_202_Dawn_run
+CycleCharset = NPC_202_Dawn_bike
+SurfCharset = NPC_202_Dawn_surf
+DiveCharset = NPC_202_Dawn_surf
+FishCharset = NPC_202_Dawn_fishing
+SurfFishCharset = NPC_202_Dawn_fishing

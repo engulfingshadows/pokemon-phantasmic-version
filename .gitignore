@@ -1,47 +1,23 @@
-# Audio, Graphics and Plugins folders
-#Audio/
+# All included in encrypted RGSSAD file
+Data/
 Graphics/
+PBS/
+
+# Already Compiled
 Plugins/
-Screenshots/
-
-# Data folder, but not Data/Scripts folder or messages_core.dat
-Data/*
-#!Data/Scripts.rxdata
-#!Data/Scripts/
-#!Data/messages_core.dat
-
-# PBS folder
-PBS/*
 
 # Files in the main project folder
-errorlog.txt
-Game.ini
-Game.rxproj
-RGSS*.dll
 animmaker.exe
 animmaker.txt
-discord_game_sdk.dll
-DiscordAPI_XP.dll
+
 extendtext.exe
 extendtext.txt
+
+Game.rxproj
+
 RPG Maker Encrypter.jar
+
+scripts_combine.rb
+scripts_extract.rb
+
 townmapgen v21.1.html
-x64-msvcrt-ruby310.dll
-zlib1.dll
-
-# Common code editor folders & files
-.vscode/
-*.code-workspace
-.idea/
-*.mkproj
-
-# Operating system generated files & folders
-.DS_Store
-.DS_Store?
-ehthumbs.db
-Thumbs.db
-[Dd]esktop.ini
-
-# Temp files
-
-~*
